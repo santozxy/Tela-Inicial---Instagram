@@ -1,7 +1,7 @@
 # Tela inicial do Instagram 🚀
 
-### Tecnologias usadas:
+### Tecnologias usadas 🖥️:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
